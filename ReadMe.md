@@ -33,7 +33,7 @@ Convert HEIC & HEIF to JPEG or PNG (for Windows 10 & 11) - Simple design, Powerf
 
 [Available on the Microsoft App Store](https://www.microsoft.com/store/apps/9PKWK2PJJLDK)
 
-**Free Trial** for 1 day (enjoy the full capability, no restrictions to test before you buy)
+**Free Trial** - try it out and see if it works for you!
 
 ![Github-Small](https://github.com/HEIC-to-JPEG-Dev/HEIC-Converter/assets/32410442/2fd02cde-7e1f-4597-bf9e-0422be8294fe)
 
