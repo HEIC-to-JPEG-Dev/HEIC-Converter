@@ -28,5 +28,24 @@ Generally, the best option is to convert HEIC photos to an industry standard, on
 
 Of course, JPEG is not the only file format that is universally understood, PNG is another common format, amongst others.
 
-**HEIC Converter Lite**
+## HEIC Converter Lite
+Convert HEIC & HEIF to JPEG or PNG (for Windows 10 & 11) - Simple design, Powerful conversion
+
+[Available on the Microsoft App Store](https://www.microsoft.com/store/apps/9PKWK2PJJLDK)
+
+**Free Trial** for 1 day (enjoy the full capability, no restrictions to test before you buy)
+
+![Github-Small](https://github.com/HEIC-to-JPEG-Dev/HEIC-Converter/assets/32410442/2fd02cde-7e1f-4597-bf9e-0422be8294fe)
+
+
+[Features]
+
+- Unlimited conversions, convert a few photos, or thousands
+- Convert to JPG, JPEG or PNG
+- Preserves the image metadata (Exif)
+- Converts locally, so it's fast and secure and doesn't upload anything to internet
+- Fully supports Hight Dynamic Range (HDR)
+- Modern Windows styling on both Windows 10 and 11
+
+
 
